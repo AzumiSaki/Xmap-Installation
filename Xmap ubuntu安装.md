@@ -1,12 +1,4 @@
-# XMap Ubuntu 手动安装
-
-这份是最直白的 Ubuntu 安装清单，适合你已经在 Ubuntu 里，不想用任何 `.bat` 或 Windows 启动器的时候。
-
-默认前提：
-
-- 你已经拿到 `xmap-master` 源码目录
-- 你当前用的是 Ubuntu
-- 你能联网装依赖
+# XMap Ubuntu安装
 
 ## 1. 打开终端
 
