@@ -1,17 +1,5 @@
 # XMap 安装说明
 
-这份说明面向“刚下载下来就准备安装”的场景，默认目录是 `D:\xmap-master`，默认安装方式是我们已经准备好的：
-
-- [INSTALL_XMAP.bat](</D:/xmap-master/INSTALL_XMAP.bat>)
-- [INSTALL_XMAP.ps1](</D:/xmap-master/INSTALL_XMAP.ps1>)
-
-当前这套本地部署不是原生 Windows 版，而是：
-
-- Windows 上双击或运行 `INSTALL_XMAP.bat`
-- 安装脚本自动准备 `WSL Ubuntu`
-- 在 WSL 里编译并安装 `xmap`
-- 以后通过 [xmap.bat](</D:/xmap-master/xmap.bat>) 从 Windows 侧启动
-
 ## 1. 最简单的安装方法
 
 如果你只是想尽快装好，按这个顺序做：
